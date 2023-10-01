@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "ts-node-dev --respawn --transpile-only --ignore-watch node_modules src/Classes_Classes-Abstratas_Interfaces.ts"
+    "dev": "ts-node-dev --respawn --transpile-only --ignore-watch node_modules src/Padrões-de-Projeto.ts"
   },
   "keywords": [],
   "author": "",
